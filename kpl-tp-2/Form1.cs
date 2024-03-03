@@ -23,14 +23,18 @@ namespace kpl_tp_2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string angka1 = textBox1.Text;
-            string angka2 = textBox2.Text;
+            string name = textBox1.Text;
 
-            label5.Text = "Hello world";
+            label7.Text = "Hasil : Hallo! " + name;
 
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
         {
 
         }

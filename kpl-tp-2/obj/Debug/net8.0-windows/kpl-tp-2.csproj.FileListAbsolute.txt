@@ -14,3 +14,4 @@ C:\Users\Indra Mahesa\Documents\Kuliah\kpl-tp-2\kpl-tp-2\obj\Debug\net8.0-window
 C:\Users\Indra Mahesa\Documents\Kuliah\kpl-tp-2\kpl-tp-2\obj\Debug\net8.0-windows\kpl-tp-2.pdb
 C:\Users\Indra Mahesa\Documents\Kuliah\kpl-tp-2\kpl-tp-2\obj\Debug\net8.0-windows\kpl-tp-2.genruntimeconfig.cache
 C:\Users\Indra Mahesa\Documents\Kuliah\kpl-tp-2\kpl-tp-2\obj\Debug\net8.0-windows\ref\kpl-tp-2.dll
+C:\Users\Indra Mahesa\Documents\Kuliah\kpl-tp-2\kpl-tp-2\obj\Debug\net8.0-windows\kpl-tp-2.sourcelink.json
